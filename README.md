@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/locnest/Serverless%20Microservices/_apis/build/status/locnest.Serverless-Eventing-Platform-for-Microservices?branchName=master)](https://dev.azure.com/locnest/Serverless%20Microservices/_build/latest?definitionId=11&branchName=master)
 ---
 page_type: sample
 languages:
